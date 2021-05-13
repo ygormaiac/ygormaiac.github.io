@@ -18,16 +18,18 @@
 }
 
 .buttons-final {
-    background-color: #2fc18c;
+    background-color: #4D4D4D;
     padding: 10px;
-    border-radius: 5px;
+    border-radius: 3px;
     text-decoration: none;
     color: white;
+    border: 1px #000 solid;
     font-weight: bold;
-    border: black 2px solid;
     display: inline-block;
     margin-left: 100px;
     margin-right: auto;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 30px;
 
 }
 
@@ -37,12 +39,14 @@
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
+    box-shadow: 2px 2px 2px #000;
+    border-radius: 50%;
 }
 
 .subtitle {
     text-align: center;
-    color: #2fc18c;
-    font-family: 'Epilogue', sans-serif;
+    color: #4D4D4D;;
+    font-family: 'Montserrat', sans-serif;
     letter-spacing: 3px;
 }
 
@@ -50,5 +54,14 @@
     text-align: center;
     list-style-type: none;
     line-height: 25px;
+}
+
+.gif-final {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 100px;
+    margin-top: 30px;
 }
 
