@@ -1,6 +1,7 @@
 h1 {
     text-align: center;
-    font-family: 'montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    color: slategray;
 }
 
 #sobre-mim {
@@ -14,11 +15,34 @@ h1 {
 }
 
 .buttons-final {
-    background-color: teal;
+    background-color: slategray;
     padding: 10px;
     border-radius: 5px;
     text-decoration: none;
     color: white;
     font-weight: bold;
     border: black 2px solid;
+    display: inline-block;
+    margin-left: 100px;
+    margin-right: auto;
+
 }
+
+.img-skill {
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+.subtitle {
+    text-align: center;
+}
+
+.lista-skills {
+    text-align: center;
+    list-style-type: none;
+    line-height: 25px;
+}
+
