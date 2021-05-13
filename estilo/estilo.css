@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+}
+
+#sobre-mim {
+    text-align: center;
+}
+
+#foto-inicial {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.buttons-final {
+    background-color: teal;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    border: black 2px solid;
+}
