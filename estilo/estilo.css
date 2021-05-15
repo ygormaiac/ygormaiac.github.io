@@ -8,13 +8,26 @@
 
 #sobre-mim {
     text-align: center;
+    margin-right: 40px;
 }
 
 #foto-inicial {
     display: block;
-    margin-right: auto;
-    margin-left: auto;
+    margin-right: 40px;
+    margin-left: 40px;
     box-shadow: 5px 5px 5px #000;
+}
+
+.box-initial {
+   max-width: 45%;
+   display: inline-block;
+   vertical-align: middle;
+   margin-left: 50px;
+   margin-bottom: 10px;
+}
+
+.box-master {
+    
 }
 
 .buttons-final {
@@ -30,7 +43,6 @@
     margin-right: auto;
     font-family: 'Montserrat', sans-serif;
     margin-bottom: 30px;
-
 }
 
 .img-skill {
@@ -51,9 +63,8 @@
 }
 
 .lista-skills {
-    text-align: center;
+    text-align: left;
     list-style-type: none;
-    line-height: 25px;
 }
 
 .gif-final {
