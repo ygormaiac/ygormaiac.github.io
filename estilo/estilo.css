@@ -10,8 +10,8 @@
     --hue-color: 325;
 
     /* HSL color mode */
-    --first-color: #40E0D0;
-    --first-color-second: #40E0D0;
+    --first-color: #48D1CC;
+    --first-color-second: #48D1CC;
     --first-color-alt: #5F9EA0;
     --first-color-lighter: #5F9EA0;
     --title-color: hsl(var(--hue-color), 8%, 15%);
