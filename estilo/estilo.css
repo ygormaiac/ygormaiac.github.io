@@ -1256,7 +1256,8 @@ text-align: center;
     }
 
     .portfolio__img {
-        width: 320px;
+        width: 400px;
+        height: 200px;
     }
 
     .portfolio__content {
